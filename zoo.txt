@@ -1,1 +1,14 @@
-
+visual encodings
+graphical perception
+Protovis
+time-series
+stacked graphs
+small multiples
+horizon graph
+exploratory data analysis
+stem-and-leaf plot
+Q-Q plot
+scatter plot matrix
+graduated symbol map
+k-means clustering
+enclosure diagram
