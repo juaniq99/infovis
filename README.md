@@ -5,3 +5,5 @@ Repository for Information Visualization course
 [Hola mundo!](https://juaniq99.github.io/infovis/index.html)
 
 [zoo.txt](https://juaniq99.github.io/infovis/zoo.txt)
+
+[mom2021w31 - bike collisions visualization](https://juaniq99.github.io/infovis/mom2021w31.html)
