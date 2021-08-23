@@ -8,5 +8,7 @@ Repository for Information Visualization course
 
 [mom2021w31 - bike collisions visualization](https://juaniq99.github.io/infovis/mom2021w31.html)
 
+[mom2021w34 - entry jobs visualization](https://juaniq99.github.io/infovis/mom2021w34.html)
+
 [mom2021w34 - entry jobs with Chart Builder](https://juaniq99.github.io/infovis/mom2021w34_ChartBuilder.html)
 
