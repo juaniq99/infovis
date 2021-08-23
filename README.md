@@ -7,3 +7,6 @@ Repository for Information Visualization course
 [zoo.txt](https://juaniq99.github.io/infovis/zoo.txt)
 
 [mom2021w31 - bike collisions visualization](https://juaniq99.github.io/infovis/mom2021w31.html)
+
+[mom2021w34 - entry jobs with Chart Builder](https://juaniq99.github.io/infovis/mom2021w34_ChartBuilder.html)
+
