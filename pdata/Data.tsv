@@ -1,4 +1,4 @@
-Fecha	Día	Comida del día	Formato	Hora inicio	Hora fin	Cocinero	Ayudante/s	Tipo comida	Comida
+Fecha	Comida del día	Formato	Hora inicio	Hora fin	Cocinero	Ayudante/s	Tipo comida	Comida
 23/08/2021	Almuerzo	Cocina			Mamá		Carne	Milanesa con papas al horno
 23/08/2021	Cena	Cocina	19:45	20:14	Yo	Hermana	Arróz	Arróz con mejillones y langostinos
 24/08/2021	Almuerzo	Cocina	13:31	13:56	Yo		Pasta	Tallarines
@@ -13,3 +13,4 @@ Fecha	Día	Comida del día	Formato	Hora inicio	Hora fin	Cocinero	Ayudante/s	Tipo
 28/08/2021	Cena	Cocina			Mamá		Pasta	Ñoquis
 29/08/2021	Almuerzo	Cocina			Papá	Mamá	Carne	Asado
 29/08/2021	Cena	Cocina			Mamá		Verdura	Tarta de verdura
+30/08/2021	Almuerzo	Hecha					Carne	Matambre con ensalada
