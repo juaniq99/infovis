@@ -1,5 +1,5 @@
 Fecha	Comida del día	Formato	Hora inicio	Hora fin	Cocinero	Ayudante/s	Tipo comida	Comida
-23/08/2021	Almuerzo	Cocina			Mamá		Carne	Milanesa con papas al horno
+23/08/2021	Almuerzo	Cocina			Mamá		Carne	Milanesas con papas al horno
 23/08/2021	Cena	Cocina	19:45	20:14	Yo	Hermana	Arróz	Arróz con mejillones y langostinos
 24/08/2021	Almuerzo	Cocina	13:31	13:56	Yo		Pasta	Tallarines
 24/08/2021	Cena	Cocina			Hermana		Verdura	Ensalada con pollo
@@ -7,10 +7,22 @@ Fecha	Comida del día	Formato	Hora inicio	Hora fin	Cocinero	Ayudante/s	Tipo comi
 25/08/2021	Cena	Delivery					Pizza	Pizza
 26/08/2021	Almuerzo	Cocina	13:08	13:28	Yo		Pasta	Ravioles
 26/08/2021	Cena	Cocina			Mamá	Hermana	Pescado	Pescado con ensalada
-27/08/2021	Almuerzo	Cocina			Hermana	Papá	Milanesa soja	Milanesas de soja con arróz
+27/08/2021	Almuerzo	Cocina			Hermana	Papá	Otro	Milanesas de soja con arróz
 27/08/2021	Cena	Delivery					Pescado	Sushi
 28/08/2021	Almuerzo	Cocina	13:20	13:38	Yo	Mamá	Carne	Panchos con ensalada
 28/08/2021	Cena	Cocina			Mamá		Pasta	Ñoquis
 29/08/2021	Almuerzo	Cocina			Papá	Mamá	Carne	Asado
 29/08/2021	Cena	Cocina			Mamá		Verdura	Tarta de verdura
 30/08/2021	Almuerzo	Hecha					Carne	Matambre con ensalada
+30/08/2021	Cena	Cocina	21:02	21:24	Yo	Mamá	Pasta	Ravioles
+31/08/2021	Almuerzo	Cocina	12:40	13:30	Yo	Papá	Carne	Milanesas con papas al horno
+31/08/2021	Cena	Cocina			Hermana	Mamá	Tarta	Tarta de jamón y queso
+1/09/2021	Almuerzo	Cocina	12:50	13:16	Yo		Pollo	Nuggets con croquetas
+1/09/2021	Cena	Cocina			Mamá	Hermana	Pescado	Pescado con arroz
+2/09/2021	Almuerzo	Cocina			Hermana		Pasta	Tallarines
+2/09/2021	Cena	Cocina			Hermana	Mamá	Carne	Carne con verduras
+3/09/2021	Almuerzo	Cocina			Hermana	Mamá	Huevos	Omelette con ensalada
+3/09/2021	Cena	Hecha					Otro	Picada
+4/09/2021	Almuerzo	Cocina			Mamá		Pasta	Canelones
+4/09/2021	Cena	Delivery					Empanadas	Empanadas
+5/09/2021	Almuerzo	Cocina	13:02	13:37	Yo	Mamá	Carne	Hamburgesas
