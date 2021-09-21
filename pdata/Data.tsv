@@ -1,5 +1,5 @@
 Fecha	Comida del día	Formato	Hora inicio	Hora fin	Cocinero	Ayudante/s	Tipo comida	Comida
-23/08/2021	Almuerzo	Cocina			Mamá		Carne	Milanesas con papas al horno
+23/08/2021	Almuerzo	Cocina			Mamá		Carne	Milanesas con papas
 23/08/2021	Cena	Cocina	19:45	20:14	Yo	Hermana	Arróz	Arróz con mejillones y langostinos
 24/08/2021	Almuerzo	Cocina	13:31	13:56	Yo		Pasta	Tallarines
 24/08/2021	Cena	Cocina			Hermana		Verdura	Ensalada con pollo
@@ -15,7 +15,7 @@ Fecha	Comida del día	Formato	Hora inicio	Hora fin	Cocinero	Ayudante/s	Tipo comi
 29/08/2021	Cena	Cocina			Mamá		Tarta	Tarta de verdura
 30/08/2021	Almuerzo	Hecha					Carne	Matambre con ensalada
 30/08/2021	Cena	Cocina	21:02	21:24	Yo	Mamá	Pasta	Ravioles
-31/08/2021	Almuerzo	Cocina	12:40	13:30	Yo	Papá	Carne	Milanesas con papas al horno
+31/08/2021	Almuerzo	Cocina	12:40	13:30	Yo	Papá	Carne	Milanesas con papas
 31/08/2021	Cena	Cocina			Hermana	Mamá	Tarta	Tarta de jamón y queso
 1/09/2021	Almuerzo	Cocina	12:50	13:16	Yo		Pollo	Nuggets con croquetas
 1/09/2021	Cena	Cocina			Mamá	Hermana	Pescado	Pescado con arroz
@@ -31,14 +31,14 @@ Fecha	Comida del día	Formato	Hora inicio	Hora fin	Cocinero	Ayudante/s	Tipo comi
 6/09/2021	Cena	Cocina			Mamá		Carne	Milanesas con ensalada
 7/09/2021	Almuerzo	Cocina	13:10	13:36	Yo		Pasta	Ravioles
 7/09/2021	Cena	Cocina			Mamá		Pescado	Pescado con ensalada
-8/09/2021	Almuerzo	Cocina	12:30	13:18	Yo	Pollo	Nuggets con papas al horno
+8/09/2021	Almuerzo	Cocina	12:30	13:18	Yo		Pollo	Nuggets con papas
 8/09/2021	Cena	Cocina			Mamá		Pasta	Tallarines
 9/09/2021	Almuerzo	Cocina			Hermana		Pasta	Fideos con albóndigas
-9/09/2021	Cena	Hecha					Pasta Fideos con albóndigas
+9/09/2021	Cena	Hecha					Pasta	Fideos con albóndigas
 10/09/2021	Almuerzo	Cocina			Mamá		Carne	Milanesas con ensalada
 10/09/2021	Cena	Hecha					Otro	Sanguches de miga
-11/09/2021	Almuerzo	Cocina			Mamá	Hermana	Verdura Ensalada con pescado
-11/09/2021	Cena	Delivery					Pizza Pizza
+11/09/2021	Almuerzo	Cocina			Mamá	Hermana	Verdura	Ensalada con pescado
+11/09/2021	Cena	Delivery					Pizza	Pizza
 12/09/2021	Almuerzo	Cocina			Mamá		Pasta	Sorrentinos
 12/09/2021	Cena	Hecha					Pizza	Pizza
 13/09/2021	Almuerzo	Cocina	13:00	13:38	Yo		Carne	Milanesa con tortilla
@@ -55,3 +55,6 @@ Fecha	Comida del día	Formato	Hora inicio	Hora fin	Cocinero	Ayudante/s	Tipo comi
 18/09/2021	Cena	Delivery					Pasta	Ñoquis
 19/09/2021	Almuerzo	Cocina			Mamá		Tarta	Tarta de puerro
 19/09/2021	Cena	Cocina			Mamá		Pasta	Canelones
+20/09/2021	Almuerzo	Cocina	12:40	13:34	Yo		Carne	Milanesas con papas
+20/09/2021	Cena	Cocina	20:32	20:58	Yo		Arróz	Arróz con mejillones y langostinos
+21/09/2021	Almuerzo	Cocina	13:05	13:28	Yo		Pasta	Tallarines

@@ -1,0 +1,39 @@
+body {
+    background-color: #d2d7d8;
+}
+
+#viz {
+    width: 70%;
+    text-align: center;
+    align-items: center;
+    margin: 2% auto;
+}
+
+.center-div{
+    text-align: center;
+    align-items: center;
+}
+
+.title{
+    font-weight: 600;
+    font-size: 300%;
+}
+
+.subtitle{
+    font-weight: 500;
+    font-size: 200%;
+    margin-top: 5%;
+}
+
+.foodrow {
+    display: table;
+    margin: 2% 10%;
+    vertical-align: middle;
+    width: 80%;
+    table-layout: fixed;    /* For cells of equal size */
+}
+.foodrow span {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
