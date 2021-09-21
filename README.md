@@ -12,3 +12,4 @@ Repository for Information Visualization course
 
 [mom2021w34 - entry jobs with Chart Builder](https://juaniq99.github.io/infovis/mom2021w34_ChartBuilder.html)
 
+[Presentación PData](https://juaniq99.github.io/infovis/pdata/html/presentation.html)
