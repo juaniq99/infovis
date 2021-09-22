@@ -2,11 +2,41 @@ body {
     background-color: #d2d7d8;
 }
 
-#viz {
-    width: 70%;
+.v1770x991 {
+    width: 1770px;
+    height: 991px;
     text-align: center;
     align-items: center;
     margin: 2% auto;
+}
+
+.v1300x927 {
+    width: 1300px;
+    height: 927px;
+    text-align: center;
+    align-items: center;
+    margin: 2% auto;
+}
+
+.v1200x827 {
+    width: 1200px;
+    height: 827px;
+    text-align: center;
+    align-items: center;
+    margin: 2% auto;
+}
+
+.v1000x827 {
+    width: 1000px;
+    height: 827px;
+    text-align: center;
+    align-items: center;
+    margin: 2% auto;
+}
+
+.tableauViz {
+    text-align: center;
+    align-items: center;
 }
 
 .center-div{
